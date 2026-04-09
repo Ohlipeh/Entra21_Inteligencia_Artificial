@@ -52,6 +52,7 @@ Atividade prática de organização financeira utilizando planilhas.
 
 📎 Planilha desenvolvida:  
 https://docs.google.com/spreadsheets/d/1ka7H9O8l4bCPcp0g7EAn76wlJS96_YQF/edit
+https://docs.google.com/spreadsheets/d/1ViY7P6TN9X1__gV6gtFgyUv8lFdUVCis/edit
 
 Ferramenta utilizada:
 - Organize (gestão financeira)
