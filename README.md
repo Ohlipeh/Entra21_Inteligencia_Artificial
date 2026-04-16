@@ -2,15 +2,29 @@
 
 > 💡 "Aprendendo hoje, construindo soluções inteligentes para o futuro."
 
-Este repositório documenta minha jornada no programa **Entra21**, com foco em Inteligência Artificial, programação e desenvolvimento de soluções práticas.
+Este repositório documenta minha jornada no programa **Entra21**, com foco em Inteligência Artificial, programação, análise de dados e desenvolvimento de soluções práticas.
 
 ---
 
-## 📚 📖 Ementa do Curso
+## 📌 Sobre o projeto
 
-🔗 [Acessar ementa oficial](https://entra21.akademos.app.br/storage/syllabus/01KK1TDNEYD2V3J1V1ZMEXNT3F.pdf)
+Durante o curso, estou desenvolvendo habilidades técnicas e práticas em tecnologia, com foco em:
 
-Principais áreas abordadas:
+- Inteligência Artificial e Machine Learning
+- Programação com Python
+- Análise e manipulação de dados
+- Metodologias Ágeis aplicadas a projetos reais
+- Organização e controle de informações
+
+---
+
+## 📚 Ementa do Curso
+
+📄 [Acessar ementa oficial](https://entra21.akademos.app.br/storage/syllabus/01KK1TDNEYD2V3J1V1ZMEXNT3F.pdf)
+
+---
+
+## 🧠 Áreas de Estudo
 
 ### 🧠 Inteligência Artificial
 - Fundamentos de IA
@@ -19,18 +33,27 @@ Principais áreas abordadas:
 - Automação com IA
 
 ### 💻 Programação
-- Python
 - Lógica de programação
+- Python
 - Manipulação de dados
 
 ### 📊 Dados
 - Análise de dados
 - Limpeza e organização
-- Visualização
+- Visualização de informações
 
-### 💰 Finanças
-- Controle financeiro
-- Organização de dados financeiros
+### 💰 Finanças Aplicadas
+- Controle financeiro pessoal
+- Organização de dados financeiros em planilhas
+
+---
+
+## 🧩 Metodologias Ágeis
+
+- Scrum, Kanban e XP
+- Planejamento de projetos ágeis
+- Gestão de tarefas e entregas
+- Aplicação prática em atividades do curso
 
 ---
 
@@ -40,65 +63,80 @@ Principais áreas abordadas:
 - Pandas (em aprendizado)
 - Excel / Google Sheets
 - Git e GitHub
-- Gamma (IA para apresentações)
+- Ferramentas de IA para produtividade e apresentações (ex: Gamma)
 
 ---
 
 ## 📂 Projetos e Atividades
 
-### 🔹 Controle Financeiro
+### 💰 Controle Financeiro
 
-Atividade prática de organização financeira utilizando planilhas.
+Projeto de organização financeira utilizando planilhas.
 
-📎 Planilha desenvolvida:  
-https://docs.google.com/spreadsheets/d/1ka7H9O8l4bCPcp0g7EAn76wlJS96_YQF/edit
-https://docs.google.com/spreadsheets/d/1ViY7P6TN9X1__gV6gtFgyUv8lFdUVCis/edit
+- Ferramenta: Google Sheets
+- Objetivo: estruturar e analisar dados financeiros pessoais
 
-Ferramenta utilizada:
-- Organize (gestão financeira)
-- Google Sheets
+📎 [Planilha 1](https://docs.google.com/spreadsheets/d/1ka7H9O8l4bCPcp0g7EAn76wlJS96_YQF/edit)  
+📎 [Planilha 2](https://docs.google.com/spreadsheets/d/1ViY7P6TN9X1__gV6gtFgyUv8lFdUVCis/edit)
 
 ---
 
-### 🔹 Apresentação com IA (Gamma)
+### 🤖 Inteligência Artificial
 
-Criação de conteúdo utilizando inteligência artificial para geração de apresentações.
+Apresentação e atividade sobre conceitos de IA.
 
-Ferramenta:
-- Gamma
+📊 [Acessar apresentação](https://gamma.app/docs/Andre-Felipe-Isensee-Leite-c0g4ju6squi9ay8)
+
+📁 Projeto relacionado:
+- Jogo Tetris (em desenvolvimento)
+
+---
+
+### 💻 Programação
+
+Atividades práticas de lógica e desenvolvimento em Python.
+
+📁 Projeto local:
+- Repositório de estudos em Python (exercícios e práticas)
+
+---
+
+### 🧩 Metodologias Ágeis
+
+Planejamento e organização de atividades utilizando conceitos ágeis.
+
+📎 [Planilha no OneDrive](https://onedrive.live.com/:x:/g/personal/442f8eb94fbcde9f/IQDxQCP83rEjS5wKPdM9g9vUAclt8_dB2KRx6Tw2l98_gYw)
 
 ---
 
 ## 📈 Progresso
 
-📅 Status atual: **Início do curso (1ª semana)**
+📅 Status atual: **Início do curso (primeiras semanas)**
 
 - ✅ Introdução ao curso
-- ✅ Primeiras atividades com IA
+- ✅ Primeiros exercícios com IA
 - ✅ Organização financeira com dados
-- 🔄 Em andamento: Programação e análise de dados
+- 🔄 Em andamento: Programação em Python e análise de dados
 
 ---
 
 ## 🎯 Objetivo
 
-Desenvolver habilidades sólidas em tecnologia com foco em Inteligência Artificial, visando atuar profissionalmente na área e construir soluções inteligentes e eficientes.
+Desenvolver competências sólidas em tecnologia, com foco em Inteligência Artificial e análise de dados, visando atuação profissional na área e criação de soluções inteligentes e eficientes.
 
 ---
 
 ## 🔥 Próximos Passos
 
-- [ ] Criar projetos com Python
-- [ ] Trabalhar com dados usando Pandas
-- [ ] Desenvolver automações
-- [ ] Criar projetos de Machine Learning
-- [ ] Integrar IA em aplicações reais
+- [ ] Desenvolvimento de projetos com Python
+- [ ] Uso de Pandas para análise de dados
+- [ ] Automação de tarefas
+- [ ] Introdução a Machine Learning
+- [ ] Criação de projetos completos para portfólio
 
 ---
 
-## 🤝 Contato
+## 📞 Contato
 
-- GitHub: https://github.com/Ohlipeh
-- LinkedIn: https://www.linkedin.com/ohlipeh
-
-
+- GitHub: https://github.com/Ohlipeh  
+- LinkedIn: https://www.linkedin.com/in/ohlipeh
